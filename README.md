@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/zxh-profile-banner.svg" width="100%" alt="ZXH Official premium developer banner" />
+<img src="assets/zxh-profile-banner.svg" width="100%" alt="ZXH Official animated graphite-blue developer banner" />
 
 <p>
   <img src="assets/zxh-mark.svg" width="104" alt="ZXH Official logo mark" />
@@ -21,8 +21,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=7867D9&center=true&vCenter=true&width=760&lines=Ideas+into+interfaces.+Interfaces+into+products.;Building+the+ZXH+OFFICIAL+digital+ecosystem.;Web+Apps+%7C+APIs+%7C+PWAs+%7C+Developer+Tools.;Always+learning.+Always+building." alt="ZXH Official animated introduction" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=zulqarnainhaider7116-art&label=PROFILE%20VIEWS&color=9b76df&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zulqarnainhaider7116-art?label=FOLLOWERS&style=flat-square&color=ec79ad&logo=github" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=zulqarnainhaider7116-art&label=PROFILE%20VIEWS&color=1677ff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/zulqarnainhaider7116-art?label=FOLLOWERS&style=flat-square&color=65cfff&logo=github" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/zulqarnainhaider7116-art?label=TOTAL%20STARS&style=flat-square&color=43a6d8&logo=github" alt="GitHub stars" />
 </p>
 
@@ -49,6 +49,12 @@ I work across the web development stack, turning ideas into practical tools, int
 ---
 
 ## 𓆩 02 / TECHNOLOGY UNIVERSE 𓆪
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,firebase,cloudflare,vercel,github,git&perline=6&theme=dark" alt="ZXH development tools and technologies" />
+
+</div>
 
 <div align="center">
 
@@ -104,8 +110,8 @@ I work across the web development stack, turning ideas into practical tools, int
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zulqarnainhaider7116-art&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=8b72df&icon_color=ec79ad&text_color=71809b" alt="GitHub account statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnainhaider7116-art&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=8b72df&text_color=71809b" alt="Most used programming languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zulqarnainhaider7116-art&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=42bfff&icon_color=65cfff&text_color=71809b" alt="GitHub account statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zulqarnainhaider7116-art&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=42bfff&text_color=71809b" alt="Most used programming languages" />
 
 <br/>
 
