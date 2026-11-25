@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">ZXH Official Technology Stack</title><desc id="desc">Technologies used across ZXH Official web projects.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ff73b8"/><stop offset=".5" stop-color="#9b80ff"/><stop offset="1" stop-color="#42bfff"/></linearGradient></defs>
+<rect x="2" y="2" width="1196" height="266" rx="26" fill="#fbfcff" stroke="#e8edfa" stroke-width="2"/>
+<text x="44" y="54" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="800" letter-spacing="4" fill="#8994ad">CORE TECHNOLOGIES</text>
+<path d="M44 75H1156" stroke="url(#g)" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+ <g transform="translate(105 120)"><rect width="140" height="94" rx="18" fill="#fff0f7" stroke="#ffd5e8"/><text x="70" y="48" font-size="25" font-weight="900" fill="#e34b91">HTML5</text><text x="70" y="73" font-size="12" font-weight="700" fill="#9a7890">STRUCTURE</text></g>
+ <g transform="translate(275 120)"><rect width="140" height="94" rx="18" fill="#eef7ff" stroke="#d1eaff"/><text x="70" y="48" font-size="25" font-weight="900" fill="#287bc2">CSS3</text><text x="70" y="73" font-size="12" font-weight="700" fill="#718da8">INTERFACES</text></g>
+ <g transform="translate(445 120)"><rect width="140" height="94" rx="18" fill="#fff9e9" stroke="#f5e5b9"/><text x="70" y="48" font-size="25" font-weight="900" fill="#b18a19">JS / TS</text><text x="70" y="73" font-size="12" font-weight="700" fill="#a39168">LOGIC</text></g>
+ <g transform="translate(615 120)"><rect width="140" height="94" rx="18" fill="#f2efff" stroke="#ded5ff"/><text x="70" y="48" font-size="25" font-weight="900" fill="#7056c9">REACT</text><text x="70" y="73" font-size="12" font-weight="700" fill="#8b80ad">UI</text></g>
+ <g transform="translate(785 120)"><rect width="140" height="94" rx="18" fill="#effaf4" stroke="#d1efdc"/><text x="70" y="48" font-size="25" font-weight="900" fill="#268b58">NEXT.JS</text><text x="70" y="73" font-size="12" font-weight="700" fill="#739985">FRAMEWORK</text></g>
+ <g transform="translate(955 120)"><rect width="140" height="94" rx="18" fill="#edf8ff" stroke="#d1eafa"/><text x="70" y="48" font-size="25" font-weight="900" fill="#277da9">FIREBASE</text><text x="70" y="73" font-size="12" font-weight="700" fill="#7795a8">BACKEND</text></g>
+</g></svg>
