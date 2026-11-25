@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title">
-<title id="title">ZXH Official Mark</title>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff5ca8"/><stop offset=".52" stop-color="#9874ff"/><stop offset="1" stop-color="#39baff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#7d8bb8" flood-opacity=".2"/></filter></defs>
-<rect x="18" y="18" width="476" height="476" rx="120" fill="#f8f9ff"/>
-<rect x="44" y="44" width="424" height="424" rx="100" fill="url(#g)" filter="url(#s)"/>
-<rect x="58" y="58" width="396" height="396" rx="88" fill="none" stroke="#fff" stroke-opacity=".65" stroke-width="3"/>
-<path d="M105 150H407M105 362H407" stroke="#fff" stroke-opacity=".2" stroke-width="3"/>
-<text x="256" y="286" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="142" font-weight="900" letter-spacing="-15" fill="#fff">ZXH</text>
-<text x="256" y="330" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="8" fill="#fff">OFFICIAL</text>
+<title id="title">ZXH Official graphite and blue brand mark</title>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1b30"/><stop offset="1" stop-color="#174f89"/></linearGradient><linearGradient id="b" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1878ff"/><stop offset="1" stop-color="#75ddff"/></linearGradient><filter id="s"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".35"/></filter></defs>
+<rect x="18" y="18" width="476" height="476" rx="112" fill="#080e18"/><rect x="42" y="42" width="428" height="428" rx="96" fill="url(#g)" stroke="#58c7ff" stroke-opacity=".65" stroke-width="3" filter="url(#s)"/>
+<rect x="58" y="58" width="396" height="396" rx="82" fill="none" stroke="#d7f3ff" stroke-opacity=".18" stroke-width="2"/>
+<text x="256" y="280" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="145" font-weight="900" letter-spacing="-16" fill="#f3f8ff">ZXH</text>
+<path d="M112 318H400" stroke="url(#b)" stroke-width="8" stroke-linecap="round"><animate attributeName="stroke-dasharray" values="0 288;288 0;0 288" dur="6s" repeatCount="indefinite"/></path>
+<text x="256" y="370" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700" letter-spacing="9" fill="#b8d9f4">OFFICIAL</text>
+<circle cx="398" cy="111" r="7" fill="#5ed1ff"><animate attributeName="r" values="5;9;5" dur="2s" repeatCount="indefinite"/></circle>
 </svg>
