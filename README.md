@@ -42,16 +42,74 @@
 
 <img align="right" width="150" src="assets/zxh-mark.svg" alt="ZXH emblem"/>
 
-Hey! I'm **Zulqarnain X Haider**, creator of **ZXH OFFICIAL** — an independent digital brand focused on building useful, modern and visually distinctive digital experiences.
+<div align="center">
 
-I work across web development, browser-based tools, APIs, installable web apps and creative interface design. My goal is simple: turn ideas into practical products with their own identity.
+### 𓆩༺ ✦ 𝑯𝑬𝑳𝑳𝑶, 𝑰'𝑴 ✦ ༻𓆪
 
-**╭─ CURRENT MISSION**
-- 🚀 Build useful web applications, APIs and PWAs.
-- 🎨 Create expressive interfaces with motion, color and strong typography.
-- ⚙️ Improve performance, reliability and responsive behavior.
-- 🌐 Expand the ZXH OFFICIAL ecosystem.
-**╰─ BUILD · IMPROVE · REPEAT**
+# 𝐙𝐔𝐋𝐐𝐀𝐑𝐍𝐀𝐈𝐍  ✦  𝐗  ✦  𝐇𝐀𝐈𝐃𝐄𝐑
+
+<img src="https://img.shields.io/badge/FOUNDER_&_CREATOR-ZXH_OFFICIAL-FF4D9D?style=for-the-badge&labelColor=171329" alt="Founder and creator of ZXH Official"/>
+
+**𓆩 𝑰𝑵𝑫𝑬𝑷𝑬𝑵𝑫𝑬𝑵𝑻 𝑫𝑰𝑮𝑰𝑻𝑨𝑳 𝑩𝑹𝑨𝑵𝑫 𓆪**
+
+*Building useful, modern and visually distinctive digital experiences.*
+
+</div>
+
+I'm **Zulqarnain X Haider**, the creator behind **ZXH OFFICIAL** — an independent digital brand focused on turning creative ideas into practical products with a clear identity.
+
+My work moves across **web development**, **browser-based tools**, **APIs**, **installable web apps (PWAs)** and **creative interface design**. I bring technology and visual expression together to build digital experiences that are useful, polished and memorable.
+
+<div align="center">
+
+### 𓆩༺ ⚡ 𝑻𝑯𝑬 𝑪𝑼𝑹𝑹𝑬𝑵𝑻 𝑴𝑰𝑺𝑺𝑰𝑶𝑵 ⚡ ༻𓆪
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 𝑩𝑼𝑰𝑳𝑫 & 𝑳𝑨𝑼𝑵𝑪𝑯
+
+Useful web applications, powerful APIs and installable PWAs.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 𝑫𝑬𝑺𝑰𝑮𝑵 & 𝑪𝑹𝑬𝑨𝑻𝑬
+
+Expressive interfaces with motion, color and strong typography.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ 𝑶𝑷𝑻𝑰𝑴𝑰𝒁𝑬 & 𝑰𝑴𝑷𝑹𝑶𝑽𝑬
+
+Performance, reliability and responsive behavior — without compromise.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 𝑮𝑹𝑶𝑾 & 𝑬𝑿𝑷𝑨𝑵𝑫
+
+Continuously grow the **ZXH OFFICIAL** digital ecosystem.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILD-FF4D9D?style=for-the-badge&labelColor=171329" alt="Build"/>
+<img src="https://img.shields.io/badge/IMPROVE-A66BFF?style=for-the-badge&labelColor=171329" alt="Improve"/>
+<img src="https://img.shields.io/badge/REPEAT-35D7FF?style=for-the-badge&labelColor=102535" alt="Repeat"/>
+
+### 𓆩 ✦ 𝐁𝐔𝐈𝐋𝐃  ·  𝐈𝐌𝐏𝐑𝐎𝐕𝐄  ·  𝐑𝐄𝐏𝐄𝐀𝐓 ✦ 𓆪
+
+</div>
 
 <br clear="right"/>
 
