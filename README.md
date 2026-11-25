@@ -34,7 +34,7 @@
 
 ### <img src="https://img.shields.io/badge/01-IDENTITY-FF4D9D?style=for-the-badge&labelColor=171329" alt="01 Identity"/>
 
-# ✨ THE CREATOR BEHIND THE CODE
+# 𓆩༺ ✦ 𝑻𝑯𝑬 𝑪𝑹𝑬𝑨𝑻𝑶𝑹 ✦ 𝑩𝑬𝑯𝑰𝑵𝑫 ✦ 𝑻𝑯𝑬 𝑪𝑶𝑫𝑬 ✦ ༻𓆪
 
 **Curiosity → Creativity → Code → Creation**
 
