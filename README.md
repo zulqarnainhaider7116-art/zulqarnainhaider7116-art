@@ -61,17 +61,17 @@ I work across web development, browser-based tools, APIs, installable web apps a
 
 ### <img src="https://img.shields.io/badge/02-TECH_STACK-A66BFF?style=for-the-badge&labelColor=171329" alt="02 Tech stack"/>
 
-# 🧬 THE DIGITAL TOOLKIT
+# 𓆩༺ 🧬 𝑫𝑰𝑮𝑰𝑻𝑨𝑳 𝑻𝑶𝑶𝑳𝑲𝑰𝑻 ✦ 𝑻𝑬𝑪𝑯 𝑬𝑪𝑶𝑺𝒀𝑺𝑻𝑬𝑴 ༻𓆪
 
 *Tools and technologies I work with and explore.*
 
-### ◈ FRONTEND & LANGUAGES
+### 𓆩 ⚡ 𝑭𝑹𝑶𝑵𝑻𝑬𝑵𝑫 ✦ & ✦ 𝑳𝑨𝑵𝑮𝑼𝑨𝑮𝑬𝑺 𓆪
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" alt="HTML CSS JavaScript TypeScript React Next.js"/>
 
-### ◈ BACKEND, DATABASE & CLOUD
+### 𓆩 ☁️ 𝑩𝑨𝑪𝑲𝑬𝑵𝑫 ✦ 𝑫𝑨𝑻𝑨𝑩𝑨𝑺𝑬 ✦ 𝑪𝑳𝑶𝑼𝑫 𓆪
 <img src="https://skillicons.dev/icons?i=nodejs,firebase,cloudflare,vercel&theme=dark&perline=4" alt="Node.js Firebase Cloudflare Vercel"/>
 
-### ◈ DEVELOPMENT & DESIGN WORKFLOW
+### 𓆩 🎨 𝑫𝑬𝑽𝑬𝑳𝑶𝑷𝑴𝑬𝑵𝑻 ✦ & ✦ 𝑫𝑬𝑺𝑰𝑮𝑵 ✦ 𝑾𝑶𝑹𝑲𝑭𝑳𝑶𝑾 𓆪
 <img src="https://skillicons.dev/icons?i=github,git,vscode,figma&theme=dark&perline=4" alt="GitHub Git VS Code Figma"/>
 
 <img src="assets/zxh-tech-orbit.svg" width="96%" alt="ZXH technology ecosystem map"/>
@@ -84,7 +84,7 @@ I work across web development, browser-based tools, APIs, installable web apps a
 
 ### <img src="https://img.shields.io/badge/03-PROJECTS-35D7FF?style=for-the-badge&labelColor=102535" alt="03 Projects"/>
 
-# 🚀 THE ZXH PROJECT UNIVERSE
+# 𓆩༺ 🚀 𝑻𝑯𝑬 𝒁𝑿𝑯 ✦ 𝑷𝑹𝑶𝑱𝑬𝑪𝑻 ✦ 𝑼𝑵𝑰𝑽𝑬𝑹𝑺𝑬 ༻𓆪
 
 *Different ideas. Distinct experiences. One creator identity.*
 
@@ -94,7 +94,7 @@ I work across web development, browser-based tools, APIs, installable web apps a
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌸 ZXH OFFICIAL TOOLS</h3>
+<h3>𓆩༺ 🌸 𝗭𝗫𝗛 ✦ 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✦ 𝗧𝗢𝗢𝗟𝗦 ༻𓆪</h3>
 A browser-based collection of practical online utilities.
 
 <a href="https://zxh-official-tools.pages.dev/"><img src="https://img.shields.io/badge/OPEN_LIVE-FF4D9D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open tools"/></a>
@@ -103,7 +103,7 @@ A browser-based collection of practical online utilities.
 </td>
 <td width="50%" valign="top">
 
-<h3>🎬 ZXH MOVIES HUB</h3>
+<h3>𓆩༺ 🎬 𝗭𝗫𝗛 ✦ 𝗠𝗢𝗩𝗜𝗘𝗦 ✦ 𝗛𝗨𝗕 ༻𓆪</h3>
 A movie and TV discovery project with a multi-server playback interface.
 
 <a href="https://github.com/zulqarnainhaider7116-art/ZXH-OFFICIAL-MOVIES-HUB"><img src="https://img.shields.io/badge/VIEW_PROJECT-35D7FF?style=for-the-badge&logo=github&logoColor=07111C" alt="Movies hub"/></a>
@@ -113,7 +113,7 @@ A movie and TV discovery project with a multi-server playback interface.
 <tr>
 <td width="50%" valign="top">
 
-<h3>💎 ZXH OFFICIAL COMPANY</h3>
+<h3>𓆩༺ 💎 𝗭𝗫𝗛 ✦ 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✦ 𝗖𝗢𝗠𝗣𝗔𝗡𝗬 ༻𓆪</h3>
 A dedicated digital experience for the ZXH brand.
 
 <a href="https://github.com/zulqarnainhaider7116-art/ZXH-OFFICIAL-COMPANY"><img src="https://img.shields.io/badge/VIEW_PROJECT-A66BFF?style=for-the-badge&logo=github&logoColor=white" alt="Company project"/></a>
@@ -121,7 +121,7 @@ A dedicated digital experience for the ZXH brand.
 </td>
 <td width="50%" valign="top">
 
-<h3>🕸️ ZXH WEB SCRAPPER</h3>
+<h3>𓆩༺ 🕸️ 𝗭𝗫𝗛 ✦ 𝗪𝗘𝗕 ✦ 𝗦𝗖𝗥𝗔𝗣𝗣𝗘𝗥 ༻𓆪</h3>
 A web-scraping focused development project.
 
 <a href="https://github.com/zulqarnainhaider7116-art/zxh-official-web-scrapper"><img src="https://img.shields.io/badge/VIEW_PROJECT-62DBA7?style=for-the-badge&logo=github&logoColor=071C18" alt="Web scrapper"/></a>
@@ -131,7 +131,7 @@ A web-scraping focused development project.
 <tr>
 <td width="50%" valign="top">
 
-<h3>📥 ZXH MDFIRE DOWNLOADER</h3>
+<h3>𓆩༺ 📥 𝗭𝗫𝗛 ✦ 𝗠𝗗𝗙𝗜𝗥𝗘 ✦ 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗𝗘𝗥 ༻𓆪</h3>
 A media downloader web project.
 
 <a href="https://zxh-official-mdfire-dl.vercel.app/"><img src="https://img.shields.io/badge/OPEN_LIVE-FFB84D?style=for-the-badge&logo=googlechrome&logoColor=21112D" alt="Open downloader"/></a>
@@ -140,7 +140,7 @@ A media downloader web project.
 </td>
 <td width="50%" valign="top">
 
-<h3>🔌 ZXH OFFICIAL API</h3>
+<h3>𓆩༺ 🔌 𝗭𝗫𝗛 ✦ 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✦ 𝗔𝗣𝗜 ༻𓆪</h3>
 An API project for integrations across the ZXH ecosystem.
 
 <a href="https://github.com/zulqarnainhaider7116-art/zxh-official-api"><img src="https://img.shields.io/badge/VIEW_PROJECT-35D7FF?style=for-the-badge&logo=github&logoColor=07111C" alt="API project"/></a>
@@ -150,7 +150,7 @@ An API project for integrations across the ZXH ecosystem.
 <tr>
 <td width="50%" valign="top">
 
-<h3>☁️ ZXH OFFICIAL HOSTING</h3>
+<h3>𓆩༺ ☁️ 𝗭𝗫𝗛 ✦ 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 ✦ 𝗛𝗢𝗦𝗧𝗜𝗡𝗚 ༻𓆪</h3>
 Hosting-related project and experiments.
 
 <a href="https://github.com/zulqarnainhaider7116-art/zxh-official-hosting"><img src="https://img.shields.io/badge/VIEW_PROJECT-A66BFF?style=for-the-badge&logo=github&logoColor=white" alt="Hosting project"/></a>
@@ -158,7 +158,7 @@ Hosting-related project and experiments.
 </td>
 <td width="50%" valign="top">
 
-<h3>🧩 ZXH WP DP FETCHER</h3>
+<h3>𓆩༺ 🧩 𝗭𝗫𝗛 ✦ 𝗪𝗣 ✦ 𝗗𝗣 ✦ 𝗙𝗘𝗧𝗖𝗛𝗘𝗥 ༻𓆪</h3>
 A WordPress profile-picture fetching utility.
 
 <a href="https://github.com/zulqarnainhaider7116-art/ZXH-OFFICIAL-WP-DP-FETCHER-"><img src="https://img.shields.io/badge/VIEW_PROJECT-FF4D9D?style=for-the-badge&logo=github&logoColor=white" alt="WP DP Fetcher"/></a>
@@ -179,7 +179,7 @@ A WordPress profile-picture fetching utility.
 
 ### <img src="https://img.shields.io/badge/04-GITHUB_INSIGHTS-62DBA7?style=for-the-badge&labelColor=102B29" alt="04 GitHub insights"/>
 
-# 📊 THE CONTRIBUTION ZONE
+# 𓆩༺ 📊 𝑮𝑰𝑻𝑯𝑼𝑩 ✦ 𝑪𝑶𝑵𝑻𝑹𝑰𝑩𝑼𝑻𝑰𝑶𝑵 ✦ 𝑪𝑬𝑵𝑻𝑹𝑬 ༻𓆪
 
 *Every commit is another step forward.*
 
@@ -204,7 +204,7 @@ A WordPress profile-picture fetching utility.
 
 ### <img src="https://img.shields.io/badge/05-CONNECT-FFB84D?style=for-the-badge&labelColor=30200D" alt="05 Connect"/>
 
-# 🌍 CONNECT WITH THE ZXH COMMUNITY
+# 𓆩༺ 🌍 𝑪𝑶𝑵𝑵𝑬𝑪𝑻 ✦ 𝑾𝑰𝑻𝑯 ✦ 𝑻𝑯𝑬 ✦ 𝒁𝑿𝑯 ✦ 𝑼𝑵𝑰𝑽𝑬𝑹𝑺𝑬 ༻𓆪
 
 *Explore the work · Follow the journey · Build together.*
 
